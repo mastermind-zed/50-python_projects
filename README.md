@@ -1,5 +1,5 @@
 # 50-python_projects.
-# python_projects
+# python_projects.
 python training repository
 
 ![](resources/python_image.jpg)
