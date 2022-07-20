@@ -9,7 +9,7 @@ python training repository.
  Here in this repository, you will find a set of python projects from simple to complex 
  most of time working in the console and sometime with GUI.
  
- ## Projects list
+ ## Projects list.
  
 * [Age Calculator using Python](./Age-Calculator-using-Python.py)
 
