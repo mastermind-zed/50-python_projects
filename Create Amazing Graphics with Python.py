@@ -7,7 +7,6 @@ wn.title("Fractal Tree Pattern")
 roo.left(90)  # moving the turtle 90 degrees towards left
 roo.speed(20)  # setting the speed of the turtle
 
-
 def draw(l):  # recursive function taking length 'l' as argument
     if (l < 10):
         return
@@ -23,7 +22,6 @@ def draw(l):  # recursive function taking length 'l' as argument
         roo.left(30)  # moving the turtle 30 degrees towards left
         roo.pensize(2)
         roo.backward(l)  # returning the turtle back to its original psition
-
 
 draw(20)  # drawing 20 times
 
