@@ -29,4 +29,4 @@ python training repository.
 
   
   
-### Enjoy python! 
+### Enjoy python!
