@@ -12,7 +12,7 @@ python training repository.
  ## Projects list.
  
 * [Age Calculator using Python](./Age-Calculator-using-Python.py)
-* [Age Calculator using Python](./Age-Calculator-using-Python.py)
+* [BMI Calculator.py](./BMI Calculator.pyy)
 
  
  ## User Guide 
